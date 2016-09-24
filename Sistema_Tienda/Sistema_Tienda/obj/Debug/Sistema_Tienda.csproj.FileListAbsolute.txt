@@ -1,0 +1,11 @@
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\bin\Debug\Sistema_Tienda.exe.config
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\bin\Debug\Sistema_Tienda.exe
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\bin\Debug\Sistema_Tienda.pdb
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.csprojResolveAssemblyReference.cache
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.PRESENTACION.frmAgregarProducto.resources
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.Form1.resources
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.Properties.Resources.resources
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.csproj.GenerateResource.Cache
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.exe
+c:\users\elite\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\obj\Debug\Sistema_Tienda.pdb
+C:\Users\ELITE\documents\visual studio 2015\Projects\Sistema_Tienda\Sistema_Tienda\bin\Debug\MySql.Data.dll
